@@ -4,12 +4,22 @@
     list-style: none;
 }
 
+
 .icon{
     padding: 8px;
 }
 
 .banner{
     background-image: url(../pics/mountains.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+.banner2{
+    background-image: url(../pics/mountains_3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -33,4 +43,9 @@
 
   .text-box{
     text-align: center;
+  }
+
+  footer{
+    text-align: center;
+    justify-content: center;
   }
