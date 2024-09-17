@@ -8,3 +8,29 @@
     padding: 8px;
 }
 
+.banner{
+    background-image: url(../pics/mountains.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+
+.new-amsterdam-regular {
+    font-family: "New Amsterdam", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .photo{
+    width: 300px;
+    display: block;
+    margin: 1rem auto;
+    border-radius: 550px 550px 250px 250px;
+  }
+
+  .text-box{
+    text-align: center;
+  }

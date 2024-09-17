@@ -7,11 +7,14 @@
         rel="stylesheet" 
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" 
         crossorigin="anonymous">
-    <link rel="stylesheet" href="./styles/styles.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=New+Amsterdam&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="./styles/styles.css">
     <title>Project 1 Homepage</title>
 </head>
 <body>
-    <header class="container.fluid">
+    <header class="container.fluid new-amsterdam-regular">
         <nav class="navbar navbar-expand-sm">
             <div class="container-fluid">
               <a class="navbar-brand" href="./index.html">KYLE ORWIG</a>
@@ -21,10 +24,10 @@
               <div class="collapse navbar-collapse" id="navbarText">
                 <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
                   <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="./page2.html">Projects</a>
+                    <a class="nav-link" aria-current="page" href="./page2.html">PROJECTS</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="./contact.html">Contact Me</a>
+                    <a class="nav-link" href="./contact.html">CONTACT ME</a>
                   </li>
                 </ul>
                 <div class="navbar-text">
@@ -52,7 +55,25 @@
     </header>
   
     <main>
-        <h1>Main Body</h1>
+        <section class="container-fluid banner">
+          <h1 class="new-amsterdam-regular">Home Page</h1>
+        </section>
+        
+        <section class="container-fluid ">
+          <h1 class="new-amsterdam-regular text-box">Kyle Orwig</h1>
+          <h1 class="new-amsterdam-regular text-box">Full Stack Web Developer</h1>
+            <div class="row">
+            <img class="photo" src="./pics/profile_photo.JPG" alt="Profile Picture">
+            </div>
+        </section>
+
+        <section class="container">
+          <section class="row">
+            <section class="col-4">One</section>
+            <section class="col-4">Two</section>
+            <section class="col-4">Three</section>
+          </section>
+        </section>
     </main>
 
     <footer>Footer</footer>
