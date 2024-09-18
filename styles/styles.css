@@ -43,9 +43,32 @@
 
   .text-box{
     text-align: center;
+    justify-content: center;
   }
 
   footer{
     text-align: center;
     justify-content: center;
   }
+
+  .bg3{
+    background-image: url(../pics/Mountain3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+  }
+
+  .form-section{
+    background-image: url(../pics/mountain4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+  }
+
+  
