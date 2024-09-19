@@ -1,85 +1,83 @@
-main{
+main {
   background-color: khaki;
 }
 
-.social{
-    display: flex;
-    justify-content: center;
-    list-style: none;
+.social {
+  display: flex;
+  justify-content: center;
+  list-style: none;
 }
 
-
-.icon{
-    padding: 8px;
+.icon {
+  padding: 8px;
 }
 
-.banner{
-    background-image: url(../pics/mountains.jpg) ;
-    background-repeat: no-repeat;
-    background-size: cover;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 400px;
+.banner {
+  background-image: url(../pics/mountains.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
 }
-.banner2{
-    background-image: url(../pics/mountains_3.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    /* height: 400px; */
+.banner2 {
+  background-image: url(../pics/mountains_3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 400px; */
 }
 
 .new-amsterdam-regular {
-    font-family: "New Amsterdam", system-ui;
-    font-weight: 400;
-    font-style: normal;
-  }
+  font-family: "New Amsterdam", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
 
-  .photo{
-    width: 300px;
-    display: block;
-    margin: 1rem auto;
-    border-radius: 550px 550px 250px 250px;
-  }
+.photo {
+  width: 300px;
+  display: block;
+  margin: 1rem auto;
+  border-radius: 550px 550px 250px 250px;
+}
 
-  .text-box{
-    text-align: center;
-    justify-content: center;
-  }
+.text-box {
+  text-align: center;
+  justify-content: center;
+}
 
-  footer{
-    text-align: center;
-    justify-content: center;
-  }
+footer {
+  text-align: center;
+  justify-content: center;
+}
 
-  .bg3{
-    background-image: url(../pics/Mountain3.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 600px;
-  }
+.bg3 {
+  background-image: url(../pics/Mountain3.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 600px;
+}
 
-  .form-section{
-    background-image: url(../pics/mountain4.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 400px;
-  }
+.form-section {
+  background-image: url(../pics/mountain4.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+}
 
-  .testemonial{
-    font-style: italic;
-  }
+.testemonial {
+  font-style: italic;
+}
 
-  .opacity{
-    --bs-bg-opacity: .75;
-  }
-  
+.opacity {
+  --bs-bg-opacity: 0.75;
+}
