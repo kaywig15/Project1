@@ -1,3 +1,7 @@
+main{
+  background-color: khaki;
+}
+
 .social{
     display: flex;
     justify-content: center;
@@ -25,7 +29,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 400px;
+    /* height: 400px; */
 }
 
 .new-amsterdam-regular {
@@ -73,5 +77,9 @@
 
   .testemonial{
     font-style: italic;
+  }
+
+  .opacity{
+    --bs-bg-opacity: .75;
   }
   
