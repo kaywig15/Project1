@@ -4,7 +4,7 @@
 
 # Overview
 
-- To show skills learned in html and css to create a custom webpage
+- To show skills learned in .html and .css to create a custom webpage
 
 # Functionality
 
@@ -29,3 +29,7 @@
 - As a person in need of a website, I can know how to contact a designer in their contact me page
 - As a site visitor, I can see what projects this person has been working on on the projects tab
 - As a visitor, I can gain a better understanding of the person that this webpage is about
+
+# Wireframes Saved as draw.io file
+
+- Please let me know if there is a better way to save these. Thank you!
