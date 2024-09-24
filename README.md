@@ -22,12 +22,11 @@ Improvements
 
 Hosted at:
 
-- Hosting Link: [https://spontaneous-dango-31f4c0.netlify.app/]
-- https://github.com/kaywig15/Project1
+- Hosting Link: [https://kaywig15.github.io/Project1/index.html]
+- GitHub: [https://github.com/kaywig15/Project1]
 
 User stories:
 
 - As a person in need of a website, I can know how to contact a designer in their contact me page
 - As a site visitor, I can see what projects this person has been working on on the projects tab
 - As a visitor, I can gain a better understanding of the person that this webpage is about
-
